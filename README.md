@@ -1,7 +1,7 @@
 # Recurrent-Neural-Networks-Keras-Theory-and-Implementation
 Recurrent Neural Networks with Keras
 
-![Screenshot (179)](https://user-images.githubusercontent.com/57037068/83903818-ded60d80-a76f-11ea-8895-6014d36ce91d.png)
+![Screenshot (178)](https://user-images.githubusercontent.com/57037068/83904097-54da7480-a770-11ea-9778-b33ace2bac00.png)
 
 
-![Screenshot (178)](https://user-images.githubusercontent.com/57037068/83903831-e4cbee80-a76f-11ea-8137-40df2f6d4027.png)
+![Screenshot (179)](https://user-images.githubusercontent.com/57037068/83904089-5146ed80-a770-11ea-9ea9-00f152aa6846.png)
