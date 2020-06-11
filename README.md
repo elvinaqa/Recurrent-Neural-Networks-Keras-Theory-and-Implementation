@@ -21,6 +21,9 @@ weights and biases become so small that it doesnt modified at all - Gradient Van
 # The opposite happen in the feed-forward models, in the way to the output layer from input, gradient values becomes so
 # significantly bigger that it change the values of bias and weights profoundly - Gradient Explotion
 
+![download (2)](https://user-images.githubusercontent.com/57037068/84419727-13dbd780-ac2a-11ea-98e3-9266f9cffb47.png)
+
+
 When n hidden layers use activation function like sigmoid, n small DERIVATIVES are multiplied together making the 
 exponential descrease in the gradient values as the model backpropogates down to initial layers
 
@@ -38,3 +41,6 @@ Leaky RELU, Exponential RELU,
 
 
 ![lstm](https://user-images.githubusercontent.com/57037068/83904502-04afe200-a771-11ea-919f-289c8e454501.PNG)
+
+![download](https://user-images.githubusercontent.com/57037068/84419721-12aaaa80-ac2a-11ea-93df-29c8f93e2c1f.png)
+![download (1)](https://user-images.githubusercontent.com/57037068/84419726-13434100-ac2a-11ea-939c-f1ad3bebb17a.png)
